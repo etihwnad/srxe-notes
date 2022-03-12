@@ -1,0 +1,5 @@
+= SMART Response XE notes
+
+Notes from exploring the hardware.
+
+
